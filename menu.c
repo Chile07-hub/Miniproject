@@ -21,8 +21,21 @@ int main()
         printf("1.chicken masala\n2.chicken afghani\n3.chicken Tandoori\n");
         break;
 
+        case'3':
+        printf("You have choose Dessert\n");
+        printf("1.Ice cream\n2.cake\n3.food\n");
+        break;
+
+        case'4':
+        printf("Thankyou Visit again\n");
+        break;
+
+        default:
+        printf("Sorry Bad luck Vist next Time");
+
 
     }
+    return 0;
     
 }
 
