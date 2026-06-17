@@ -25,7 +25,4 @@ int main()
     }
     
 }
-=======
-    printf("1.Starter\n2.Main Course\n");
-}
->>>>>>> f7ed331824497048919bee6b9b949b28cda3fe67
+
