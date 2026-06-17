@@ -5,6 +5,22 @@ int main()
     char option;
     printf("<-----Welcome to chile's Restaurent----->\n\n");
     printf("Pleases order\n");
-    printf("1.Starter\n2.Main Course\n");
+    printf("1.Starter\n2.Main Course\n3.Desser\n4.exit\n");
+    scanf("%c", &option);
+
+    switch(option)
+    {
+        case'1':
+        printf("You have choose starter\n");
+        printf("1.chicken 65\n2.Dragon chicken\n3.paneer pakoda\n");
+        break;
+
+        case'2':
+        printf("You have choose main course\n");
+        printf("1.chicken masala\n2.chicken afghani\n3.chicken Tandoori\n");
+        break;
+
+
+    }
     
 }
