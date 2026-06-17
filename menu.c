@@ -5,6 +5,7 @@ int main()
     char option;
     printf("<-----Welcome to chile's Restaurent----->\n\n");
     printf("Pleases order\n");
+
     printf("1.Starter\n2.Main Course\n3.Desser\n4.exit\n");
     scanf("%c", &option);
 
@@ -24,3 +25,7 @@ int main()
     }
     
 }
+=======
+    printf("1.Starter\n2.Main Course\n");
+}
+>>>>>>> f7ed331824497048919bee6b9b949b28cda3fe67
