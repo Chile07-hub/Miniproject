@@ -31,7 +31,7 @@ int main()
         break;
 
         default:
-        printf("Sorry Bad luck Vist next Time");
+        printf("Bad luck Vist next Time\n");
 
 
     }
